@@ -1,6 +1,6 @@
 # flutter_hive_database_expample
 
-A new Flutter project.
+A new Flutter project with hive no sql databse for storing data.
 
 ## Getting Started
 
